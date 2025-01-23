@@ -470,7 +470,7 @@ h1 .blue {
   height: 100px;
   color: rgb(255, 255, 255);
 
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-weight: 400;
   line-height: 25px;
   letter-spacing: 0%;
@@ -482,7 +482,6 @@ h1 .blue {
   color: rgb(224, 165, 165);
 
   font-size: 2rem;
-  font-weight: 700;
   line-height: 30px;
   letter-spacing: 0%;
   text-align: left;
